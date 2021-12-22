@@ -51,3 +51,7 @@ Please make sure to update tests as appropriate.
 
 # License
 MIT
+
+#To-Do
+Improve the UI design
+Make changes to improve the fluency of the game
