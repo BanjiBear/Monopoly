@@ -1,8 +1,11 @@
 # Monopoly
 This is a Monopoly Game made for course semester group Project. 
 All rights belong to: CHEN Yi pu(Banjibear), Azamat Nurpeissov, XIE Yangxiaolong, and Rakshit Jain
-The Game is Designed for Mac Users written in Python. Monopoly accepts 2-6 players at a time and provides loading and storing game status. Without the need of installing pygame, the game is displayed and played through terminals
+
+The Game is Designed for Mac and Linix users written in Python. Monopoly accepts 2-6 players at a time and provides loading and storing game status. Without the need of installing pygame, the game is displayed and played through terminals
+
 Game Objective:
+
 Become the player with the most assets, through buying or renting properties! 
 This can be seen in the Asset table! Asset of a player will be printed out with the updated information after the player makes his or her moves.
 
