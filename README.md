@@ -34,13 +34,11 @@ square
 Pre-Requisite:
 Only a few prerequisite steps to get started playing our Monopoly game!
 
-OS Requirements: 
-    -macOS 10.4+
-    -Linux (Kernel 3.14+)
+OS Requirements:  macOS 10.4+ / Linux (Kernel 3.14+)
+
 Software Requirements: 
-    1. Python3
-    Python3 comes preinstalled in both macOS and all major Linux Distributions. Confirm that python3 is installed by opening the terminal and typing python3 --version
-    If you see a python version, then we’re good to go! If not, click here to install: https://www.w3computing.com/python/installing-python-windows-macos-linux/
+Python3: Python3 comes preinstalled in both macOS and all major Linux Distributions. Confirm that python3 is installed by opening the terminal and typing python3 --version. If you see a python version, then we’re good to go! If not, click here to install: https://www.w3computing.com/python/installing-python-windows-macos-linux/
+
 Compiling and Running:
 1. Open Terminal: Simply open up the terminal on your macOS / Linux computer.
 2. Locate the downloaded game folder: Assuming the game is in downloads folder, type cd Downloads/Group20Project/Monopoly
